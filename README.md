@@ -3,7 +3,13 @@
 • Overview
 
 The Google Trend Dashboard is a dynamic and interactive tool designed to track and analyze search trends for various job-related keywords over time. By leveraging data from the Google Trends API provided by SERPAPI, this live project offers real-time insights into search behaviors and trends.
-This repository contains :(i)Countries with Flags URL.csv,(ii)Google Trend Dashboard.pbix,(iii)Google Trend Report.pdf,(iv)README.md,(v)countries-110m (1).json
+This repository contains :
+(i)Countries with Flags URL.csv
+(ii)Google Trend Dashboard.pbix
+(iii)Google Trend Report.pdf
+(iv)README.md
+(v)countries-110m (1).json
+
 • Table of Contents
 
 - Introduction
